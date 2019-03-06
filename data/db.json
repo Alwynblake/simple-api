@@ -1,34 +1,32 @@
 {
   "categories": [
     {
+      "id": 3,
       "name": "Pets",
-      "_id": 3
+      "display_name": "Pets R Us",
+      "description": "Your fuzzy friends"
     },
     {
-      "name": "Things",
-      "_id": 4
-    },
-    {
-      "name": "Cats",
-      "_id": 5
-    },
-    {
-      "_id": 6
-    },
-    {
-      "_id": 7
-    },
-    {
-      "name": "Kali",
-      "_id": 8
+      "id": 5,
+      "name": "friends",
+      "display_name": "My friends",
+      "description": "All my friends are very cool"
     }
   ],
   "products": [
     {
-      "_id": 1,
+      "id": 1,
       "category": "Electronics",
       "name": "Radio",
-      "price": 15.99
+      "display_name": "My Radio",
+      "description": "It works okay"
+    },
+    {
+      "id": 2,
+      "category": "Records",
+      "name": "Records",
+      "display_name": "This is My favorite Record",
+      "description": "This is the best record ever!"
     }
   ]
 }
